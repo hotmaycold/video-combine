@@ -1,0 +1,11 @@
+{
+  "name": "@video-combine/worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@video-combine/core": "0.1.0",
+    "@video-combine/shared": "0.1.0",
+    "playwright": "^1.52.0"
+  }
+}

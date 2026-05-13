@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+.codex/
+coverage/
+.env
+.env.local
+storage/uploads/
+storage/processed/
+storage/covers/
+storage/screenshots/
+storage/browser-profiles/
+*.log
